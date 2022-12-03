@@ -6,7 +6,7 @@ import "react-image-gallery/styles/css/image-gallery.css";
 const HeroSection = (props) => {
   const images = [
     {
-      original: "/images/slider1.jpg",
+      original: "/images/All three loop.gif",
       thumbnail: "/images/slider1.png",
     },
     {
@@ -14,7 +14,7 @@ const HeroSection = (props) => {
       thumbnail: "/images/slider2.png",
     },
     {
-      original: "/images/slider3.png",
+      original: "/images/unmatched glitched 360.gif",
       thumbnail: "/images/slider3.png",
     },
     {
